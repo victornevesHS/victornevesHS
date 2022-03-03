@@ -1,6 +1,6 @@
 ## Hey 🖖
 
-My name is Victor Neves, i'm from Brazil 🇧🇷 I'm a Computer Science student, specializing in full stack development. 👨‍💻
+My name is Victor Neves, i'm from Brazil 🇧🇷 I'm a software engineer, specializing in full stack development. 👨‍💻
 
 ### 🧐 “Acredito que é possível que pessoas comuns escolham ser extraordinárias.”🌎
 
